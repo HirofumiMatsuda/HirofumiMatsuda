@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![HirofumiMatsuda's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=HirofumiMatsuda&country_code=japan)]
+[HirofumiMatsuda's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=HirofumiMatsuda&country_code=japan)]
