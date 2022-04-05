@@ -1,1 +1,1 @@
-![HirofumiMatsuda's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=HirofumiMatusda)
+![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=HirofumiMatsuda)
